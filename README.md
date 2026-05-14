@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Naimisha-K/leetcode/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/Naimisha-K/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Naimisha-K/leetcode/tree/master/0258-add-digits) |
+| [0509-fibonacci-number](https://github.com/Naimisha-K/leetcode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Naimisha-K/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Naimisha-K/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Counting
@@ -93,8 +94,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Naimisha-K/leetcode/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/Naimisha-K/leetcode/tree/master/0509-fibonacci-number) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Naimisha-K/leetcode/tree/master/0258-add-digits) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Naimisha-K/leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Naimisha-K/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
