@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/Naimisha-K/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1470-shuffle-the-array](https://github.com/Naimisha-K/leetcode/tree/master/1470-shuffle-the-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Naimisha-K/leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/Naimisha-K/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Naimisha-K/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/Naimisha-K/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/Naimisha-K/leetcode/tree/master/1920-build-array-from-permutation) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Naimisha-K/leetcode/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Naimisha-K/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Naimisha-K/leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/Naimisha-K/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
 | ------- |
