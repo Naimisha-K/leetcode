@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/Naimisha-K/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1572-matrix-diagonal-sum](https://github.com/Naimisha-K/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Naimisha-K/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1773-count-items-matching-a-rule](https://github.com/Naimisha-K/leetcode/tree/master/1773-count-items-matching-a-rule) |
 ## Matrix
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Naimisha-K/leetcode/tree/master/1732-find-the-highest-altitude) |
+## String
+|  |
+| ------- |
+| [1773-count-items-matching-a-rule](https://github.com/Naimisha-K/leetcode/tree/master/1773-count-items-matching-a-rule) |
 <!---LeetCode Topics End-->
