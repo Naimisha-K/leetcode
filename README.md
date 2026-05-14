@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Naimisha-K/leetcode/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Naimisha-K/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Naimisha-K/leetcode/tree/master/0283-move-zeroes) |
+| [0832-flipping-an-image](https://github.com/Naimisha-K/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Naimisha-K/leetcode/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Naimisha-K/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Naimisha-K/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Naimisha-K/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Naimisha-K/leetcode/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Naimisha-K/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Naimisha-K/leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Naimisha-K/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Naimisha-K/leetcode/tree/master/0412-fizz-buzz) |
+| [0832-flipping-an-image](https://github.com/Naimisha-K/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Naimisha-K/leetcode/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Naimisha-K/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Naimisha-K/leetcode/tree/master/1920-build-array-from-permutation) |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Naimisha-K/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Naimisha-K/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Naimisha-K/leetcode/tree/master/0283-move-zeroes) |
+| [0832-flipping-an-image](https://github.com/Naimisha-K/leetcode/tree/master/0832-flipping-an-image) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Naimisha-K/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
@@ -115,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/Naimisha-K/leetcode/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Naimisha-K/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Naimisha-K/leetcode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
