@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Naimisha-K/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Naimisha-K/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/Naimisha-K/leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [1816-truncate-sentence](https://github.com/Naimisha-K/leetcode/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/Naimisha-K/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Naimisha-K/leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Naimisha-K/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/Naimisha-K/leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Naimisha-K/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1773-count-items-matching-a-rule](https://github.com/Naimisha-K/leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [1816-truncate-sentence](https://github.com/Naimisha-K/leetcode/tree/master/1816-truncate-sentence) |
 | [1844-replace-all-digits-with-characters](https://github.com/Naimisha-K/leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Naimisha-K/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
