@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/Naimisha-K/leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Naimisha-K/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1773-count-items-matching-a-rule](https://github.com/Naimisha-K/leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [1844-replace-all-digits-with-characters](https://github.com/Naimisha-K/leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Naimisha-K/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
