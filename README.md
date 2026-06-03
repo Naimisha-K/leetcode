@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Naimisha-K/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Naimisha-K/leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Naimisha-K/leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Naimisha-K/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/Naimisha-K/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Naimisha-K/leetcode/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Naimisha-K/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Naimisha-K/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Naimisha-K/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Naimisha-K/leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Naimisha-K/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Naimisha-K/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Naimisha-K/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
