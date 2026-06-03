@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Naimisha-K/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Naimisha-K/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Naimisha-K/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Naimisha-K/leetcode/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Naimisha-K/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Naimisha-K/leetcode/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/Naimisha-K/leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Naimisha-K/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Naimisha-K/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Naimisha-K/leetcode/tree/master/0412-fizz-buzz) |
