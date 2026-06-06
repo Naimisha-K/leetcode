@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Naimisha-K/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Naimisha-K/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Naimisha-K/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Naimisha-K/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Naimisha-K/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Naimisha-K/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Naimisha-K/leetcode/tree/master/0412-fizz-buzz) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Naimisha-K/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Naimisha-K/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Naimisha-K/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Naimisha-K/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Naimisha-K/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Naimisha-K/leetcode/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Naimisha-K/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Naimisha-K/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Naimisha-K/leetcode/tree/master/0242-valid-anagram) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Naimisha-K/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1859-sorting-the-sentence](https://github.com/Naimisha-K/leetcode/tree/master/1859-sorting-the-sentence) |
 ## Math
