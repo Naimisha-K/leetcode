@@ -4,5 +4,6 @@ class Solution:
         for i in nums:
             if i in d:
                 return True
-            d[i]=True
+            else:
+                d[i]=1
         return False
