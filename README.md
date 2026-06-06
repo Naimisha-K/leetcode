@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Naimisha-K/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Naimisha-K/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Naimisha-K/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Naimisha-K/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Naimisha-K/leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Naimisha-K/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Naimisha-K/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Naimisha-K/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Naimisha-K/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Naimisha-K/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Naimisha-K/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Naimisha-K/leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Naimisha-K/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Naimisha-K/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Naimisha-K/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Naimisha-K/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Naimisha-K/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Naimisha-K/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Naimisha-K/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Naimisha-K/leetcode/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Naimisha-K/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Naimisha-K/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Naimisha-K/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Naimisha-K/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Naimisha-K/leetcode/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Naimisha-K/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1859-sorting-the-sentence](https://github.com/Naimisha-K/leetcode/tree/master/1859-sorting-the-sentence) |
 ## Math
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Naimisha-K/leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Naimisha-K/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Naimisha-K/leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Naimisha-K/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Naimisha-K/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Naimisha-K/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Naimisha-K/leetcode/tree/master/0509-fibonacci-number) |
@@ -186,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Naimisha-K/leetcode/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/Naimisha-K/leetcode/tree/master/0832-flipping-an-image) |
 ## String Matching
 |  |
