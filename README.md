@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Naimisha-K/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Naimisha-K/leetcode/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/Naimisha-K/leetcode/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Naimisha-K/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Naimisha-K/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Naimisha-K/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Naimisha-K/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Naimisha-K/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/Naimisha-K/leetcode/tree/master/0696-count-binary-substrings) |
 | [0832-flipping-an-image](https://github.com/Naimisha-K/leetcode/tree/master/0832-flipping-an-image) |
+| [0977-squares-of-a-sorted-array](https://github.com/Naimisha-K/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Naimisha-K/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Naimisha-K/leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Sorting
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Naimisha-K/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Naimisha-K/leetcode/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/Naimisha-K/leetcode/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Naimisha-K/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Naimisha-K/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1859-sorting-the-sentence](https://github.com/Naimisha-K/leetcode/tree/master/1859-sorting-the-sentence) |
 ## Math
