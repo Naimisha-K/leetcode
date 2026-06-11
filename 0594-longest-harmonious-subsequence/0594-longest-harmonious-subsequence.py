@@ -3,9 +3,9 @@ class Solution:
         nums.sort()
         left=0
         ans=0
-        for i in range(len(nums)):
-            while nums[i]-nums[left]>1:
+        for right in range(len(nums)):
+            while nums[right]-nums[left]>1:
                 left+=1
-            if nums[i]-nums[left]==1:
-                ans=max(ans,i-left+1)
+            if nums[right]-nums[left]==1:
+                ans=max(ans,right-left+1)
         return ans
