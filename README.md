@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Naimisha-K/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Naimisha-K/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Naimisha-K/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0766-toeplitz-matrix](https://github.com/Naimisha-K/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Naimisha-K/leetcode/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Naimisha-K/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Naimisha-K/leetcode/tree/master/0867-transpose-matrix) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0766-toeplitz-matrix](https://github.com/Naimisha-K/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Naimisha-K/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Naimisha-K/leetcode/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Naimisha-K/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
