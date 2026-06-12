@@ -5,7 +5,10 @@ class Solution:
         maxf=0
         ans=0
         for i in range(len(s)):
-            count[s[i]]=count.get(s[i],0)+1
+            if s[i] not in count:
+                count[s[i]] = 1
+            else:
+                count[s[i]] += 1
             maxf= max(maxf, count[s[i]])
             while (i-l+1)-maxf>k:
                 count[s[l]]-=1
