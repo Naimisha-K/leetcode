@@ -8,4 +8,3 @@ class Solution:
             if len(w)>k:
                 w.remove(nums[i-k])
         return False
-        
