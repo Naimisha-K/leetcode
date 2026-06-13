@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Naimisha-K/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Naimisha-K/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Backtracking
 |  |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Naimisha-K/leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Naimisha-K/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/Naimisha-K/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/Naimisha-K/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Naimisha-K/leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -333,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Naimisha-K/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Naimisha-K/leetcode/tree/master/0739-daily-temperatures) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Naimisha-K/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
