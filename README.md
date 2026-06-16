@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Naimisha-K/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Naimisha-K/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Naimisha-K/leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Naimisha-K/leetcode/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Naimisha-K/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Naimisha-K/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Naimisha-K/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Naimisha-K/leetcode/tree/master/0036-valid-sudoku) |
 | [0766-toeplitz-matrix](https://github.com/Naimisha-K/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Naimisha-K/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Naimisha-K/leetcode/tree/master/0867-transpose-matrix) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Naimisha-K/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Naimisha-K/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/Naimisha-K/leetcode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/Naimisha-K/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Naimisha-K/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Naimisha-K/leetcode/tree/master/0205-isomorphic-strings) |
