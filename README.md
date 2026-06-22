@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Naimisha-K/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Naimisha-K/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Naimisha-K/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Naimisha-K/leetcode/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -418,9 +419,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Naimisha-K/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Naimisha-K/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Naimisha-K/leetcode/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Naimisha-K/leetcode/tree/master/0547-number-of-provinces) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Naimisha-K/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Naimisha-K/leetcode/tree/master/0450-delete-node-in-a-bst) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Naimisha-K/leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Naimisha-K/leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
