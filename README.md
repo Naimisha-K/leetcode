@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Naimisha-K/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/Naimisha-K/leetcode/tree/master/2706-buy-two-chocolates) |
 | [3248-snake-in-matrix](https://github.com/Naimisha-K/leetcode/tree/master/3248-snake-in-matrix) |
+| [3842-toggle-light-bulbs](https://github.com/Naimisha-K/leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Matrix
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Naimisha-K/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3248-snake-in-matrix](https://github.com/Naimisha-K/leetcode/tree/master/3248-snake-in-matrix) |
 | [3612-process-string-with-special-operations-i](https://github.com/Naimisha-K/leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3842-toggle-light-bulbs](https://github.com/Naimisha-K/leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Naimisha-K/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Naimisha-K/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Naimisha-K/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3842-toggle-light-bulbs](https://github.com/Naimisha-K/leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/Naimisha-K/leetcode/tree/master/1859-sorting-the-sentence) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Naimisha-K/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/Naimisha-K/leetcode/tree/master/2706-buy-two-chocolates) |
+| [3842-toggle-light-bulbs](https://github.com/Naimisha-K/leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Math
 |  |
 | ------- |
