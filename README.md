@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Naimisha-K/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Naimisha-K/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Naimisha-K/leetcode/tree/master/0041-first-missing-positive) |
+| [0051-n-queens](https://github.com/Naimisha-K/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Naimisha-K/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Naimisha-K/leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Naimisha-K/leetcode/tree/master/0075-sort-colors) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Naimisha-K/leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Naimisha-K/leetcode/tree/master/0077-combinations) |
 ## Sliding Window
 |  |
