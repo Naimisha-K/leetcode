@@ -1,13 +1,13 @@
 class Solution:
     def totalNQueens(self, n: int) -> int:
-        res=[]
         cols=set()
         diag1=set()
         diag2=set()
         board=[["."]*n for _ in range(n)]
+        self.count=0
         def bt(row):
             if row==n:
-                res.append(["".join(r) for r in board])
+                self.count+=1
                 return
             for col in range(n):
                 if (col in cols) or (row-col in diag1) or (row+col in diag2):
@@ -22,4 +22,4 @@ class Solution:
                 diag1.remove(row-col)
                 diag2.remove(row+col)
         bt(0)
-        return len(res)
+        return self.count
